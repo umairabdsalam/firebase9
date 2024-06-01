@@ -14,7 +14,7 @@ import {
 } from 'firebase/auth'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBcXPb3Ftk9G5YFityLnXuhw1ZxOkNQgbU",
+  apiKey: "XXXXXXXXXXXXXXXXXXXXXXXXX",
   authDomain: "fir-9-dojo-f240e.firebaseapp.com",
   projectId: "fir-9-dojo-f240e",
   storageBucket: "fir-9-dojo-f240e.appspot.com",
